@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-00-coupling/spring-00-coupling.iml" filepath="$PROJECT_DIR$/spring-00-coupling/spring-00-coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-01-bean-annotation/spring-01-bean-annotation.iml" filepath="$PROJECT_DIR$/spring-01-bean-annotation/spring-01-bean-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-02-wiring/spring-02-wiring.iml" filepath="$PROJECT_DIR$/spring-02-wiring/spring-02-wiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-upskill.iml" filepath="$PROJECT_DIR$/.idea/spring-upskill.iml" />
+    </modules>
+  </component>
+</project>
